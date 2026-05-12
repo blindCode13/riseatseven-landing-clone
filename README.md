@@ -44,8 +44,8 @@ The goal of this project was to recreate the original **Rise at Seven** landing 
 Clone the repository and install dependencies:
 
 ```bash
-git clone <your-repo-link>
-cd rise-at-seven-landing-page-clone
+git clone https://github.com/blindCode13/riseatseven-landing-clone.git
+cd riseatseven-landing-clone
 npm install
 ```
 
